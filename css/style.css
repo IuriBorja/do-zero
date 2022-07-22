@@ -1,0 +1,10 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+
+.formulario1 {
+    display: inline-block;
+    align-items: center;
+}
